@@ -1,1 +1,0 @@
-c:\users\boyette\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
