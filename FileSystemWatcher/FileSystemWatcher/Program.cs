@@ -3,9 +3,6 @@ using System.IO;
 using System.Security.Permissions;
 using FileSystemWatcher.SQL;
 
-//HAI KYYYYYYYYYYYYYYYYYLE
-//Created by Rachelle Boyette
-//Watches the System for changes :O
 //USES A DATABASE! To check: it's either in: \FileSystemWatcher\FileSystemWatcher\bin\Debug -- if you ran it in debug or \FileSystemWatcher\FileSystemWatcher\bin\Release
 
 //Provided by MSDN FileWatcherSystem
